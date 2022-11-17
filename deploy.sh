@@ -23,3 +23,4 @@ git push -f git@github.com:GuoMingSeng/GuoMingSeng.github.io.git master
 # git push -f git@github.com:<USERNAME>/vuepress.git master:gh-pages
 
 cd -
+
